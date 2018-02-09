@@ -1,0 +1,21 @@
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDBSample.exe.config
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.FrmMain.resources
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.Properties.Resources.resources
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.csproj.GenerateResource.Cache
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDBSample.exe
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDBSample.pdb
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDB.dll
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.exe
+C:\Users\Intel\Documents\visual studio 2013\Projects\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.pdb
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDBSample.exe.config
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDBSample.exe
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDBSample.pdb
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDB.dll
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.FrmMain.resources
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.Properties.Resources.resources
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.csproj.GenerateResource.Cache
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.csproj.CoreCompileInputs.cache
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.exe
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.pdb
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\bin\Debug\LiteDB.xml
+C:\Users\parkaran\Desktop\LiteDBSample\LiteDBSample\LiteDBSample\LiteDBSample\obj\Debug\LiteDBSample.csprojResolveAssemblyReference.cache
